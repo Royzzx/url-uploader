@@ -23,9 +23,9 @@ async fn main() -> Result<()> {
     )?;
 
     // Load environment variables
-    let api_id = std::env::var("API_ID")?.parse()?;
-    let api_hash = std::env::var("API_HASH")?;
-    let bot_token = std::env::var("BOT_TOKEN")?;
+    let api_id = std::env::var("15912260")?.parse()?;
+    let api_hash = std::env::var("5c7ba9544c4d7cf3fecefebf1fd6f8bc")?;
+    let bot_token = std::env::var("5886805913:AAH-oFGt_P9un1Sx_eUOQDKNVbN2Hc3QgGA")?;
 
     // Fill in the configuration and connect to Telegram
     let config = Config {
