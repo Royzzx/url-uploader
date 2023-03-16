@@ -140,7 +140,6 @@ impl Bot {
             <i>In groups you can use the command /upload &lt;url&gt;.</i>\n\
             \n\
             🌟 <b>Features:</b>\n\
-            \u{2022} <a href=\"https://github.com/altfoxie/url-uploader\">Open source</a>\n\
             \u{2022} Free & fast\n\
             \u{2022} Uploads files up to 2GB\n\
             \u{2022} Supports redirects",
